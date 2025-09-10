@@ -1,0 +1,14 @@
+{
+  "name": "SkillSwap Connect",
+  "description": "SkillSwap Connect is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://12bf3c05-c332-48c0-a77f-5e65af228da3.vercel.app",
+  "properties": {
+    "app": {
+      "name": "SkillSwap Connect",
+      "description": "SkillSwap Connect is a Base Mini App built with Zara.",
+      "url": "https://12bf3c05-c332-48c0-a77f-5e65af228da3.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
